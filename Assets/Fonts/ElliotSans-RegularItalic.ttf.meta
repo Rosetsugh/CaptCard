@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 761452ddb6216fa4cb26fb893b08c6b0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Elliot Sans
+  fontNames:
+  - Elliot Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 610aae17c02b1134ba4ffd4ebabeab50, type: 3}
+  - {fileID: 12800000, guid: 5f49cfdbcc05d964c9fa478ee971f23b, type: 3}
+  - {fileID: 12800000, guid: 0e1faafb63be388479b83206d3e8e4be, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
