@@ -37,3 +37,7 @@ The project is initialized with **Unity 2018.3**. 2D components are used. Google
 ## Notes
 
 Game is developed in 2018 as a request from a company called MargenTech. They are interested in new technologies about maritime. The game will be released in Google Play soon, if it hasn't happened yet, please contact with with via my email.
+
+## Video
+
+https://youtu.be/O8z2XC4vtQo
